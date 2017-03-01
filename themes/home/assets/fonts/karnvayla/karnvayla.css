@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'karnvaylaregular';
+    src: url('./karnvaylaregular.eot');
+    src: url('./karnvaylaregular.eot?#iefix') format('embedded-opentype'),
+         url('./karnvaylaregular.woff2') format('woff2'),
+         url('./karnvaylaregular.woff') format('woff'),
+         url('./karnvaylaregular.ttf') format('truetype'),
+         url('./karnvaylaregular.svg#karnvaylaregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

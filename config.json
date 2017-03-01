@@ -1,0 +1,37 @@
+{
+  "website" : {
+    "name" : "Bilingual Program",
+    "description" : "มหาวิทยาลัยกรุงเทพปฏิวัติการเรียนการสอนแบบใหม่ ตอบโจทย์อนาคตที่มีทางเลือก สำหรับคนที่ยังกลัวหรือยังไม่พร้อมเรียนหลักสูตรที่ใช้ภาษาอังกฤษ 100% แม้ว่าจะไม่เก่งภาษา ไม่เป็นไร ที่นี่เราทำให้การเรียนภาษาอังกฤษสนุกและไม่ยากอย่างที่คิด มาเรียนหลักสูตร 2 ภาษา (ไทย - อังกฤษ) หรือ Bilingual  Program คำตอบที่ใช่ที่สุดที่ทำให้คุณกล้ายืนในเวทีโลก มาเริ่มต้นอนาคตที่เหนือกว่ากับ 6 หลักสูตรใหม่ ที่สามารถออกแบบอนาคตได้เหนือกว่าใคร ในสายงานที่ชื่นชอบ",
+    "keywords" : null,
+    "favicon" : "favicon.ico",
+    "logo" : "assets/images/logo.png"
+  },
+  "facebook" : {
+    "apikey" : "716713408352109",
+    "type" : "article",
+    "coverpage" : "assets/images/fb-cover.png"
+  },
+  "twitter" : {
+    "site" : "@CodeIgniter",
+    "creator" : "@CodeIgniter",
+    "coverpage" : "assets/images/tw-cover.png"
+  },
+  "css" : [
+    "vendors/bootstrap/css/bootstrap.min.css",
+    "vendors/font-awesome/css/font-awesome.min.css",
+    "vendors/inspinia-admin/css/animate.min.css",
+    "vendors/inspinia-admin/css/plugins/ladda/ladda-themeless.min.css",
+    "themes/home/assets/fonts/karnvayla/karnvayla.css",
+    "vendors/inspinia-admin/css/plugins/sweetalert/sweetalert.css"
+  ],
+  "javascript" : [
+    "vendors/jquery/jquery-2.2.4.min.js",
+    "vendors/bootstrap/js/bootstrap.min.js",
+    "vendors/angular/angular.min.js",
+    "vendors/angular/angular-sanitize.min.js",
+    "vendors/inspinia-admin/js/plugins/ladda/spin.min.js",
+    "vendors/inspinia-admin/js/plugins/ladda/ladda.min.js",
+    "vendors/inspinia-admin/js/plugins/ladda/ladda.jquery.min.js",
+    "vendors/inspinia-admin/js/plugins/sweetalert/sweetalert.min.js"
+  ]
+}

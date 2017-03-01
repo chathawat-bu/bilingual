@@ -1,0 +1,28 @@
+{
+  "faculty" : [
+    { "link" : "accounting",
+      "name" : "คณะบัญชี",
+      "department" : [
+        "บัญชี (Accounting)"
+      ]
+    },
+    { "link" : "business-administration",
+      "name" : "คณะบริหารธุรกิจ",
+      "department" : [
+        "สาขาวิชาการตลาด (Marketing)","สาขาวิชาการจัดการธุรกิจระหว่างประเทศ (International Business Management)"
+      ]
+    },
+    { "link" : "communication-arts",
+      "name" : "คณะนิเทศศาสตร์",
+      "department" : [
+        "สาขาวิชาการโฆษณา (Advertising)", "สาขาวิชาวิทยุกระจายเสียงและวิทยุโทรทัศน์ (Broadcasting)"
+      ]
+    },
+    { "link" : "humanities-and-tourism-management",
+      "name" : "คณะมนุษยศาสตร์และการจัดการการท่องเที่ยว",
+      "department" : [
+        "สาขาวิชาการจัดการธุรกิจสายการบิน (Airline Business Management)"
+      ]
+    }
+  ]
+}
